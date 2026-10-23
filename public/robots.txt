@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gusanoh.netlify.app/sitemap.xml
